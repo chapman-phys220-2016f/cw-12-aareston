@@ -1,8 +1,8 @@
 # PHYS220 CW 12 
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Aaron Grisez
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-12-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-12-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-12-aareston.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-12-aareston)
 
 **Due date:** 2016/11/29
 
@@ -43,4 +43,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Aaron Grisez
